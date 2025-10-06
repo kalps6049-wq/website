@@ -296,19 +296,22 @@ contact.html
 ```
 
 # OUTPUT:
-![alt text](<Screenshot (38).png>)
+<img width="1920" height="1080" alt="Screenshot (38)" src="https://github.com/user-attachments/assets/15ff2229-9809-4f41-a9b4-d07fcdcbfedb" />
+<img width="1920" height="1080" alt="Screenshot (39)" src="https://github.com/user-attachments/assets/3d2183cf-cab0-411b-ae87-813846bce80a" />
+<img width="1920" height="1080" alt="Screenshot (40)" src="https://github.com/user-attachments/assets/0c5be1b1-754e-468d-999d-8dbb1d110d83" />
+<img width="1920" height="1080" alt="Screenshot (41)" src="https://github.com/user-attachments/assets/70ff159a-3b1d-40cb-a1af-3da11f0aee99" />
+<img width="1920" height="1080" alt="Screenshot (42)" src="https://github.com/user-attachments/assets/87045d89-b1b6-4ea2-956f-56ab87939f1a" />
+<img width="1920" height="1080" alt="Screenshot (43)" src="https://github.com/user-attachments/assets/d3af05ec-e207-453d-b520-1ecc325c5969" />
+<img width="1920" height="1080" alt="Screenshot (44)" src="https://github.com/user-attachments/assets/7b6f6961-7276-4933-a17f-94c6ae47640b" />
 
-![alt text](<Screenshot (39).png>)
 
-![alt text](<Screenshot (40).png>)
 
-![alt text](<Screenshot (41).png>)
 
-![alt text](<Screenshot (42).png>)
 
-![alt text](<Screenshot (43).png>)
 
-![alt text](<Screenshot (44).png>)
+
+
+
 
 
 # RESULT:
